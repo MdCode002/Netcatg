@@ -62,7 +62,7 @@ a  :hover{
     background: rgba(114, 5, 5, 0.733) ;
 }
 #ad{
-    position: relative;
+    position: absolute;
     left: 50%;
     transform: translate(-50%);
 }
