@@ -1,20 +1,19 @@
 
-# Cuphead-Game
+# Netcatg
+Découvrez les catégories cachées de Netflix avec notre outil de déverrouillage. Accédez à des milliers de films et émissions de télévision que vous ne connaissiez pas encore.
 
-A small game built using Pygame that allows players to run, jump, and shoot at enemy characters that respawn once killed. The game features one level, and the controls are simple: players use the arrow keys to move left and right, the "z" key to shoot, and the space bar to jump.
 
-
-## Authors
-
+## Auteur
 - Mouhamed Diouf : [@Medzo02](https://github.com/Medzo02)
 
+## Liens
+- https://netcatg.ml/
 
-## Controls
-- Left arrow key: move left
-- Right arrow key: move right
-- Space bar: jump
-- "z" key: shoot
-## Installation
-- Make sure you have Python 3 and Pygame installed on your machine.
-- Download the source code and necessary resources from the Github repository.
-- Run the main.py file to launch the game.
+## Description
+Ce site Web fournit un guide exclusif pour accéder aux catégories cachées de Netflix. Vous pouvez trouver des milliers de films et d'émissions de télévision que vous ne connaissiez pas encore. Avec notre outil de déverrouillage, vous pouvez accéder à des catégories telles que Séries britanniques, Les classiques, Crimes, Cuisine et voyage, Séries coréennes, Séries sur la guerre, Science & Nature, Action & Adventure, Comédies, Documentaires, Drames, Horreur, Mystère et bien plus encore.
+
+## Comment utiliser le site
+
+- Cliquez sur la catégorie que vous souhaitez explorer.
+- Vous serez redirigé vers Netflix avec la catégorie sélectionnée préchargée.
+- Parcourez les films et émissions de télévision de cette catégorie sur Netflix.
